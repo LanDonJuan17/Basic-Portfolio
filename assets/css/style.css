@@ -1,4 +1,4 @@
-header{
+#name{
     background-color: teal;
     color: whitesmoke;
     float: left;
@@ -6,7 +6,19 @@ header{
     border: gray;
     line-break: auto;
     clear: auto;
+    font-size: 50px;
+    
+.body{
 
+}
+   
+
+
+}
+#navbar{
+    float:right;
+font-size: 25px;
+}
 
 }
 ul{
@@ -19,14 +31,34 @@ ul{
     text-align: center;
 
 }
+.intro{
+    background: white;
+    border: solid;
+    float:left;
+
+}    
 
 }
+.clearfix::after{
+    content:"";
+    clear: both;
+    display: table;
 }
+
+table{
+    float:right;
+
+}
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 .clear{
     overflow: hidden;
 }
 .About-Me{
-    
+   font-size: 25px;
     float: left;
 
 }}
