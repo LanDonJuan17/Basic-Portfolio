@@ -1,0 +1,39 @@
+header{
+    background-color: teal;
+    color: whitesmoke;
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: gray;
+    line-break: auto;
+    clear: auto;
+
+
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border: #cccccc;
+    display: block;
+    float: right;
+    text-align: center;
+
+}
+
+}
+}
+.clear{
+    overflow: hidden;
+}
+.About-Me{
+    
+    float: left;
+
+}}
+#me{
+    float: left;
+    clear: auto;
+}
+section{
+  float: right;
+}
